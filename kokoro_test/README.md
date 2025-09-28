@@ -27,3 +27,5 @@ O arquivo audio_completo.wav será gerado no diretório atual.
 🎧 Resultado Esperado
 
 Após a execução, você terá um arquivo de áudio com a fala sintetizada do texto informado, utilizando a voz escolhida.
+
+Referencia : https://www.youtube.com/watch?v=C6QNcdVu3b8&t=3s 
