@@ -10,9 +10,9 @@ pipeline = KPipeline(lang_code = lang_code)
 
 text = """
 Oi, tudo bem? Meu nome é Lorêto e eu estou aprendendo a usar o kokoro...
-para testa o aplicativo e gera audios de graça
+para testa o aplicativo e gera áudios de graça e é fácil de instalar
 """
-generator = pipeline(text, voice = "pm_santa")
+generator = pipeline(text, voice = "pf_dora") #"pm_santa" , pm_alex
 audio_chunck = []
 
 for gs, ps, audio in generator : 
