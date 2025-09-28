@@ -1,0 +1,12 @@
+[project]
+name = "kokoro-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kokoro>=0.9.4",
+    "numpy>=2.3.3",
+    "openai>=1.109.1",
+    "soundfile>=0.13.1",
+]
